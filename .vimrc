@@ -1,0 +1,12 @@
+syntax on
+syntax enable
+set nocompatible
+set encoding=utf-8
+set cindent
+set autoindent
+set expandtab
+set smarttab
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set number
